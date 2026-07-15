@@ -14,6 +14,8 @@ Printer Jaringan / LAN (1 Unit)
 
 Kabel UTP & RJ-45 (Tipe Straight T568B)
 
+
+
 Settingan IP Router
 
 Port ke Internet (GigabitEthernet0/0): 10.10.10.2 | Netmask: 255.255.255.0
@@ -28,6 +30,8 @@ Settingan IP Server & Printer (LAN Kiri)
 Server -> IP: 192.168.10.2 | Netmask: 255.255.255.0 | Gateway: 192.168.10.1
 
 Printer -> IP: 192.168.10.3 | Netmask: 255.255.255.0 | Gateway: 192.168.10.1
+
+
 
 Settingan IP PC Client
 Semua Subnet Mask diisi 255.255.255.0
